@@ -6,7 +6,7 @@
 * [Steps](#Steps)
 
 ## Introduction
-This is Java project used with Maven build automation tool. This repository is solely based on the highest profit challenge provided by Sada. The challenge has few tasks that includes coding and scripting to compile and execute the code. The language used to accomplish the task is Java. The Tennis-rain-answers textfile has all the answers to the challenge tennis-rain.
+This is Java project to calculate corporate profits over the years from a csv file to JSON file and find the highest value of profit through out the years in the data. This repository is solely based on the highest profit challenge provided by Sada. The challenge has few tasks that includes coding and scripting to compile and execute the code. The tasks include row calculation, elimination of rows with non-numeric values in the profit column. The rest of the rows are saved and write out to another file called data2.json and  prints the top 20 rows with the highest profit values. Maven is the project management and comprehension tool. Opencsv is the library used for reading and writing CSV in Java and Gson is used to convert Java Objects into their JSON representation. The Tennis-rain-answers textfile has all the answers to the challenge tennis-rain requires.
 
 ## Technologies
 Project is created with:
