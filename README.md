@@ -3,7 +3,7 @@
 * [Introduction](#Introduction)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Easy steps to run](#Easy steps to run)
+* [Steps to run](#Steps to run)
 
 ## Introduction
 This is Java project used with Maven build automation tool. This repository is solely based on the highest profit challenge provided by Sada. The challenge has few tasks that includes coding and scripting to compile and execute the code. The language used to accomplish the task is Java. The Tennis-rain-answers textfile has all the answers to the challenge tennis-rain.
@@ -20,7 +20,7 @@ To run this project, download it locally either by:
 * Downloading the zip file
 * Copy and run this command "gh repo clone PrasoonPawar/highest-profit-challenge"
 
-## Easy steps to run:
+## Steps to run:
 1. Download the project named "SadaAssessment"
 2. Unzip the SadaAssessment 
 3. Look for the batch file named "run.bat" inside SadaAssessment folder
