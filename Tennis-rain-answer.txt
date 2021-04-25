@@ -1,0 +1,5 @@
+1. Based on the probability, Bob has higher chance of winning the match. Bob has 75% chance of winning the next match.
+2. Bill has only 25% chance of winning the next match.
+3. No. Considering rain is the winning factor for Bill since he has only won the match in the rain. He will have 50% chance of winning and Bob also have 50% chance of winning. Because Bill has only won one match in the rain and lost one match in the rain too. This applies to Bob as well. Bob has won one match out of three matches that he won and lost one match in the rain too.
+4. I would still bet on Bob because if it rains then Bob has 50% chance of winning the match as I have said before. But, if the weather forecast is incorrect and it does not rain then Bob will have 75% of winning that match.
+5. So, the prediction will be 50-50 for the next match therefore Bill will have 50% chance to the win the match only if it rains.
